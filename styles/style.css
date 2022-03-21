@@ -95,14 +95,6 @@
 
 .two-columns__brief {
   width: 175px;
-}
-
-.two-columns_main-text {
-  width: 80%;
-  min-width: 784px;
-}
-
-.two-columns__brief {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
@@ -111,6 +103,8 @@
 }
 
 .two-columns_main-text {
+  width: 80%;
+  min-width: 784px;
   margin: 0;
   padding: 0;
   list-style: none;
