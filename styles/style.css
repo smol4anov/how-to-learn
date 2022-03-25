@@ -245,7 +245,7 @@
 
 .section-title_theme_dark {
   color: white;
-  z-index: 1;
+ z-index: 1;
 }
 
 .section-subtitle_theme_dark {
@@ -297,7 +297,6 @@
 .footer__columns {
   margin: 0 auto;
   padding: 0;
-
   width: 90%;
   display: flex;
   justify-content: space-between;
@@ -343,8 +342,6 @@
 .footer_column_link {
   line-height: 30px;
   font-size: 18px;
-  display: flex;
-  align-items: flex-end;
 }
 
 .footer_column_link a {
