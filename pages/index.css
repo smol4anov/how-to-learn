@@ -62,8 +62,6 @@
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__author/footer__author.css);
 
-@import url(../blocks/techniques/__container/techniques__container.css);
-
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 
